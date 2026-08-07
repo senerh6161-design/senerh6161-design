@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Merhaba, Ben Hayrünnisa!
 
-<!--
-**senerh6161-design/senerh6161-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Konya Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Mobil uygulama geliştirme (Flutter & Dart) ve native Android entegrasyonları üzerine odaklanıyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Teknolojiler & Araçlar
+
+- **Diller:** Dart, Java, C, Python
+- **Framework & Kütüphaneler:** Flutter, GetX, Provider
+- **Backend & Veritabanı:** Firebase Auth, Cloud Firestore
+- **Araçlar:** VS Code, Android Studio, Git & GitHub
+
+---
+
+### 📊 GitHub İstatistikleri
+
+![Hayrünnisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senerh6161-design&show_icons=true&theme=radial)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=senerh6161-design&layout=compact&theme=radial)
+
+---
+
+### 🎓 Eğitim
+
+- **Üniversite:** Konya Teknik Üniversitesi - Bilgisayar Mühendisliği
+
+---
+
